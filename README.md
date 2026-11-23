@@ -2,6 +2,10 @@
 
 ### 🔐 Networkwalks Cybersecurity Training | Black-Box Penetration Testing Project
 
+Black-box penetration test of a hospital web app — SQL injection, auth bypass, exposed DB backup & PDF password security (Networkwalks Cybersecurity Training, Week 4)
+
+`cybersecurity` `ethical-hacking` `penetration-testing` `web-security` `sql-injection` `hydra` `john-the-ripper` `ubuntu-linux` `vulnerability-assessment` `networkwalks` `black-box-testing` `infosec`
+
 ---
 
 ## 📖 Project Overview
